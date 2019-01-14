@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LZSuperImages_Example' do
+  pod 'LZSuperImages', :path => '../'
+
+  target 'LZSuperImages_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
