@@ -1,0 +1,6 @@
+framework module LZSuperImages {
+  umbrella header "LZSuperImages-umbrella.h"
+
+  export *
+  module * { export * }
+}

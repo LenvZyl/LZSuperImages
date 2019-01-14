@@ -1,0 +1,16 @@
+PODS:
+  - LZSuperImages (0.1.0)
+
+DEPENDENCIES:
+  - LZSuperImages (from `../`)
+
+EXTERNAL SOURCES:
+  LZSuperImages:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LZSuperImages: a1d7e39e68131eb90353fd5f1b8ec47dfbaae231
+
+PODFILE CHECKSUM: e8ea3c935b0426d88dbc9b9288e6e0d124a06f73
+
+COCOAPODS: 1.5.3
