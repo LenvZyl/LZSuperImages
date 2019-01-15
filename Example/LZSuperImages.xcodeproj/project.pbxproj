@@ -45,7 +45,7 @@
 		8A090EB3ADAE4505F7E63C41 /* Pods_LZSuperImages_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LZSuperImages_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A19AA76514115E95CC3F473D /* Pods_LZSuperImages_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LZSuperImages_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A3671401A7AF60C06C1E3467 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		B3BA9959E24E1CC9237D20C4 /* LZSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LZSuperImages.podspec; path = ../LZSuperImages.podspec; sourceTree = "<group>"; };
+		B3BA9959E24E1CC9237D20C4 /* LZSuperImages.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LZSuperImages.podspec; path = ../LZSuperImages.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DFC98AF91B5F8EC09166201E /* Pods-LZSuperImages_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LZSuperImages_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LZSuperImages_Tests/Pods-LZSuperImages_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
